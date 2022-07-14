@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=f0670508-ad33-4eb7-a9d4-6b331259647e
-WSPATH=/app
+UUID=bf6526cc-edce-4142-b92e-1ff40f9ce24b
+WSPATH=/bf6526cc-edce-4142-b92e-1ff40f9ce24b-vless
 PORT=80
 
 
